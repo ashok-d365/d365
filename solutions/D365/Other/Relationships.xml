@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_vsi_accountplanning" />
+  <EntityRelationship Name="lk_vsi_accountplanning_createdby" />
+  <EntityRelationship Name="lk_vsi_accountplanning_modifiedby" />
+  <EntityRelationship Name="owner_vsi_accountplanning" />
+  <EntityRelationship Name="team_vsi_accountplanning" />
+  <EntityRelationship Name="user_vsi_accountplanning" />
+  <EntityRelationship Name="vsi_vsi_accountplanning_AccountName_account" />
+</EntityRelationships>
